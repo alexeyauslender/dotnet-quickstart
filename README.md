@@ -1,1 +1,1 @@
-# dotnet-quickstart
+# dotnet-sample
